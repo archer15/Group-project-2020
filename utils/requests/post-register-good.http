@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/user/register
+Content-Type: application/json
+
+{
+    "username": "johnny",
+    "password": "johnny123",
+    "firstName": "john",
+    "lastName": "hemans",
+    "email": "john.hemans@students.mq.edu.au"
+}

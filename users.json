@@ -1,0 +1,84 @@
+{
+  "units": [
+    {
+      "id": 0,
+      "code": "COMP1010",
+      "title": "Fundamentals of Computer Science",
+      "offering": [
+        "S1",
+        "S2"
+      ],
+      "user": 0
+    },
+    {
+      "id": 1,
+      "code": "COMP1750",
+      "title": "Introduction to Business Information Systems",
+      "offering": [
+        "S1"
+      ],
+      "user": 0
+    },
+    {
+      "id": 2,
+      "code": "COMP2110",
+      "title": "Web Technology",
+      "offering": [
+        "S1",
+        "S2"
+      ],
+      "user": 0
+    },
+    {
+      "id": 3,
+      "code": "COMP2750",
+      "title": "Applications Modelling and Development",
+      "offering": [
+        "S1"
+      ],
+      "user": 0
+    },
+    {
+      "id": 4,
+      "code": "MMCC2045",
+      "title": "Interactive Web Design",
+      "offering": [
+        "S2"
+      ],
+      "user": 0
+    },
+    {
+      "id": 5,
+      "code": "COMP3120",
+      "title": "Advanced Web Development",
+      "offering": [
+        "S2"
+      ],
+      "user": 0
+    },
+    {
+      "id": 6,
+      "code": "COMP3130",
+      "title": "Mobile Application Development",
+      "offering": [
+        "S1"
+      ],
+      "user": 0
+    }
+    
+  ],
+  "users": [
+    {
+      "id": 0,
+      "username": "contrary",
+      "name": "Mary Contrary",
+      "password": "$2b$10$sLRxgKx/ZKYIP9ylXjqVCO4JwzefAHRbYW2R4nYjL2GWjBPufZFtK"
+    },
+    {
+      "id": 1,
+      "username": "josh",
+      "name": "Josh Archer",
+      "password": "$2b$10$n/rEeQ8afYVP92o.HDaoSuQu01Gy416m.eJZ9qouTksn2851ovMDa"
+    }
+  ]
+}
